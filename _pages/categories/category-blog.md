@@ -1,7 +1,7 @@
 ---
 title: "ComputerVision"
 layout: archive
-permalink: categories/ComputerVision
+permalink: /categories/ComputerVision/
 author_profile: true
 sidebar_main: true
 ---
