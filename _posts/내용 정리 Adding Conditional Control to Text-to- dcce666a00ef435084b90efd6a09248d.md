@@ -15,7 +15,7 @@ ControlNet이라는 이름의 아키텍쳐를 소개한다.
 
 Control의 종류는 무궁무진하다. 
 
-![Untitled](%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%20Adding%20Conditional%20Control%20to%20Text-to-%20dcce666a00ef435084b90efd6a09248d/Untitled.png)
+![Untitled](./Untitled.png)
 
 예를 들어 윗 행에서 처럼 Edge , 즉, 모서리 스케치만 주고 text에 따라 디테일을 바꾸거나
 
