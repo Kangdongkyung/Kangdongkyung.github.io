@@ -1,3 +1,9 @@
+---
+title:  "내용 정리: GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models"
+categories:
+  - blog
+---
+
 # 내용 정리: GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models
 
 # Abstract
