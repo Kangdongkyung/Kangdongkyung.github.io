@@ -130,7 +130,7 @@ author:
 # Site Footer
 footer:
   links:
-    -label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kdk2146@dgu.ac.kr
    
@@ -305,8 +305,8 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar:                   #내가 추가함
-        nav: "sidebar-categorty" #내가 추가함
+      sidebar:
+        nav: "sidebar-category"
   - scope:
       path: "_pages"
       type: pages
