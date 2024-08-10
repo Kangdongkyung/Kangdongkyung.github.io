@@ -15,5 +15,5 @@ sidebar-category:
   - title: "Category"
     children:
       - title: "ComputerVision"
-        url:  "/ComputerVision"
+        url:  "categories/ComputerVision"
      
