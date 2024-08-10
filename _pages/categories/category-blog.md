@@ -1,5 +1,5 @@
 ---
-title: "Computer Vision"
+title: "ComputerVision"
 layout: archive
 permalink: categories/ComputerVision
 author_profile: true
