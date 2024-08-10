@@ -14,8 +14,6 @@ main:
 sidebar-category:
   - title: "Category"
     children:
-      - title: "blog"
-        url: "/blog"
       - title: "Computer Vision"
         url:  "/Computer Vision""
       #- title: "카테고리C"
