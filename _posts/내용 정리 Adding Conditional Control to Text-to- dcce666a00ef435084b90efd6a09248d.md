@@ -1,7 +1,7 @@
 ---
 title:  "내용 정리: Adding Conditional Control to Text-to-Image Diffusion Models (ControlNet)"
 categories:
-  - blog
+  - Computer Vision
 ---
 
 
